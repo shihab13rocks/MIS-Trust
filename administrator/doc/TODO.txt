@@ -1,0 +1,71 @@
+BASE URL
+=========
+<?php echo $this->Html->url('/');?>
+
+<?php Router::url('/', true); ?>
+
+<?php echo $this->base;?>
+
+<?php echo $this->webroot; ?>
+
+Define constant in Config/core.php as define("BASE_URL", "www.yoursite.com/"); and use BASE_URL anywhere in your project
+
+=================
+
+4. GET Selected user data
+	// Common Usage:
+	$users = $this->User->find("all");
+	$results = Set::extract('/User/id', $users);
+	// results returns:
+	// array(1,2,3,4,5,...);
+	
+5. Set monthe field to Report
+	month ($tagName, $selected=null, $attributes=array(), $showEmpty=true)
+	
+	
+	
+	
+	
+	
+var $validate = array(
+    'image' => array(
+        'rule' => array('extension', array('gif', 'jpeg', 'png', 'jpg')),
+        'message' => 'Please supply a valid image.'
+    )
+);
+
+
+Acid - soy - BDS 1584:1997, CL. No-6
+Acid - pol - BDS 1584:1997, CL. No-6
+
+
+perox - Soya - BDS 909: 1980, App-F
+perox - Palm - CLC of BDS 99 2007
+
+
+internalError
+error500	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+9. Use ClassRegistry::init() to call models within helpers. 
+10. Chart
+		http://localhost/HighchartsPHP/demos/highcharts/column_and_bar/column_with_rotated_labels.php (!!)
+		http://localhost/HighchartsPHP/demos/highcharts/column_and_bar/basic_bar.php
+		http://localhost/HighchartsPHP/demos/highcharts/column_and_bar/basic_column.php
+		http://localhost/HighchartsPHP/demos/highcharts/column_and_bar/column_range.php
+		http://localhost/HighchartsPHP/demos/highcharts/column_and_bar/stacked_bar.php
+		http://localhost/HighchartsPHP/demos/highcharts/column_and_bar/stacked_column.php
+		
+		http://localhost/HighchartsPHP/demos/highcharts/line/with_data_labels.php
+		
+		http://localhost/HighchartsPHP/demos/highcharts/combinations/multiple_axes.php
+		http://localhost/HighchartsPHP/demos/highcharts/combinations/dual_axes_line_and_column.php
+		
+		http://localhost/HighchartsPHP/demos/highcharts/combinations/column_line_and_pie.php

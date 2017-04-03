@@ -1,0 +1,52 @@
+debug($this->Session->read('Auth'));
+
+array(
+	'User' => array(
+		'User' => array(
+			'password' => '*****',
+			'id' => '1',
+			'organization_id' => '1',
+			'user_role_id' => '1',
+			'username' => 'admin',
+			'email' => 'admin@cms.com',
+			'last_name' => 'z',
+			'first_name' => 'i',
+			'middle_name' => 'm',
+			'designation' => 'eng',
+			'phone' => '1234567890',
+			'mobile' => '121212',
+			'remarks' => '121212',
+			'status' => '1',
+			'last_visit' => '0000-00-00 00:00:00',
+			'created' => '0000-00-00 00:00:00',
+			'modified' => '2013-09-24 11:32:09'
+		),
+		'Organization' => array(
+			'id' => '1',
+			'title' => 'S. Alam Vegetable Oil Limited',
+			'organization_type_id' => '3',
+			'organization_group_id' => '3',
+			'address' => 'Char Phatharghata, Karnaphuli, Chittagong',
+			'address_optional' => 'Finlay House, 3rd Floor, Agrabad Commercial Area, Chittagong',
+			'contact_person' => 'Mr. S. Alam',
+			'phone' => '02-7711885',
+			'mobile' => '01711511111',
+			'email' => 'mr.x@s.alam.com',
+			'bsti_license_no' => '',
+			'logo' => '',
+			'remarks' => '',
+			'status' => '1',
+			'created' => '0000-00-00 00:00:00',
+			'modified' => '0000-00-00 00:00:00'
+		),
+		'UserRole' => array(
+			'id' => '1',
+			'title' => 'Super Admin',
+			'organization_type_id' => '0',
+			'user_type_id' => '1',
+			'rights' => '',
+			'status' => '1'
+		),
+		'Inspection' => array()
+	)
+)

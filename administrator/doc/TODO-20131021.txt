@@ -1,0 +1,48 @@
+1.Content
+	- home
+	- about us
+	- refinery
+2. Contact Us
+	- mail function
+	
+3. Logo
+	- link
+	
+4. Favicon
+
+
+
+5. Dashboard
+	- quicklinks
+	- Production
+		- group by product
+		
+	- current month production
+	- last month production
+	- access
+		pmu - all refineries
+		bsti - all refineries
+		refinery - only his own production
+		
+6.Organization
+	- Logo Upload
+	- quary active data
+	
+7. User
+	- Password Compare
+	- Email Validation
+	- Unique User Name
+	
+8. Premix Requests
+	add
+	- Organization access
+	- Form Number (Readonly)
+	- Redesign according to the doc
+	
+
+9. Product Brands
+	- logo upload
+	
+10. Production Forecast	
+	- From and To Setting
+		

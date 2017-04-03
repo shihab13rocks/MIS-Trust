@@ -1,0 +1,5 @@
+Version
+=======
+
+	CakePHP: 2.4.0
+

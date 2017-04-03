@@ -1,0 +1,12 @@
+USED
+====
+	http://www.onokumus.com/2013/06/24/metis-bootstrap-admin-template/
+	
+Others
+======
+http://bootstrapthemes.quora.com/Top-10-Bootstrap-Admin-Themes-Templates-Collection
+http://www.webresourcesdepot.com/free-html-admin-templates-for-the-backend-of-your-apps/
+http://www.99points.info/2013/02/responsive-multifunctional-admin-templates/
+
+
+http://jumpstartuidemo.com/themes/base/index.html

@@ -1,0 +1,11 @@
+;C:\ProgramData\Composer\bin;
+;C:\Ruby200\bin;
+
+
+1. Set Environment variable
+C:\wamp\bin\php\php5.3.13\;
+C:\wamp\www\edibleoil\app\Console;
+
+
+2. bake all 
+c:\wamp\www\edibleoil\app>cake bake all
